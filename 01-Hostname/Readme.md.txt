@@ -84,5 +84,5 @@ S1# copy running-config startup-config
 
 ## 🌐 Topology Screenshot
 
-![Switch Topology](topology1.png)
+![Switch Topology](topology1.png.png)
 
