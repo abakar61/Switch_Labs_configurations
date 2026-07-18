@@ -111,6 +111,11 @@ IP Address : 192.168.10.11
 
 Subnet Mask : 255.255.255.0
 
+🌐 Topology Screenshot
+
+![Switch Topology](topology1.png)
+
+
 
 
 
